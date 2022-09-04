@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "package": "tarflow.iquizoo"
+  },
+  {
+    "package": "preproc.iquizoo"
+  },
+  {
+    "package": "data.iquizoo"
+  }
+]
