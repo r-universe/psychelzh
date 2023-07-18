@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/psychelzh/universe
-	shallow = true
 	branch = HEAD
 [submodule "tarflow.iquizoo"]
 	path = tarflow.iquizoo
 	url = https://github.com/psychelzh/tarflow.iquizoo
-	shallow = true
-	registered = true
 [submodule "preproc.iquizoo"]
 	path = preproc.iquizoo
 	url = https://github.com/psychelzh/preproc.iquizoo
-	shallow = true
-	registered = true
 [submodule "data.iquizoo"]
 	path = data.iquizoo
 	url = https://github.com/psychelzh/data.iquizoo
-	shallow = true
-	registered = true
