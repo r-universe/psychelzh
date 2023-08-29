@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/psychelzh/universe
 	branch = HEAD
-[submodule "tarflow.iquizoo"]
-	path = tarflow.iquizoo
-	url = https://github.com/psychelzh/tarflow.iquizoo
-[submodule "preproc.iquizoo"]
-	path = preproc.iquizoo
-	url = https://github.com/psychelzh/preproc.iquizoo
 [submodule "data.iquizoo"]
 	path = data.iquizoo
 	url = https://github.com/psychelzh/data.iquizoo
+[submodule "preproc.iquizoo"]
+	path = preproc.iquizoo
+	url = https://github.com/psychelzh/preproc.iquizoo
+[submodule "tarflow.iquizoo"]
+	path = tarflow.iquizoo
+	url = https://github.com/psychelzh/tarflow.iquizoo
