@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/psychelzh/universe
+	url = https://github.com/psychelzh/psychelzh.r-universe.dev
 	branch = HEAD
 [submodule "data.iquizoo"]
 	path = data.iquizoo
