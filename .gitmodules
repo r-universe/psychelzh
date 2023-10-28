@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/psychelzh/psychelzh.r-universe.dev
 	branch = HEAD
-[submodule "RMariaDB"]
-	path = RMariaDB
-	url = https://github.com/r-dbi/RMariaDB
-	registered = false
 [submodule "data.iquizoo"]
 	path = data.iquizoo
 	url = https://github.com/psychelzh/data.iquizoo
