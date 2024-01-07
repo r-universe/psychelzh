@@ -11,3 +11,6 @@
 [submodule "tarflow.iquizoo"]
 	path = tarflow.iquizoo
 	url = https://github.com/psychelzh/tarflow.iquizoo
+[submodule "zutils"]
+	path = zutils
+	url = https://github.com/psychelzh/zutils
