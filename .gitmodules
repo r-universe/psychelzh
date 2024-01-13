@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/psychelzh/psychelzh.r-universe.dev
 	branch = HEAD
+[submodule "cpmr"]
+	path = cpmr
+	url = https://github.com/psychelzh/cpmr
+[submodule "data.camp"]
+	path = data.camp
+	url = https://github.com/CAMP-BNU/data.camp
 [submodule "data.iquizoo"]
 	path = data.iquizoo
 	url = https://github.com/psychelzh/data.iquizoo
