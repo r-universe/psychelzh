@@ -11,12 +11,11 @@
 [submodule "data.iquizoo"]
 	path = data.iquizoo
 	url = https://github.com/iquizoo/data.iquizoo
+	registered = false
 [submodule "preproc.iquizoo"]
 	path = preproc.iquizoo
 	url = https://github.com/iquizoo/preproc.iquizoo
-[submodule "tarflow.iquizoo"]
-	path = tarflow.iquizoo
-	url = https://github.com/iquizoo/tarflow.iquizoo
+	registered = false
 [submodule "zutils"]
 	path = zutils
 	url = https://github.com/psychelzh/zutils
