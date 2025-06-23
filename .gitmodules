@@ -8,14 +8,6 @@
 [submodule "data.camp"]
 	path = data.camp
 	url = https://github.com/CAMP-BNU/data.camp
-[submodule "data.iquizoo"]
-	path = data.iquizoo
-	url = https://github.com/iquizoo/data.iquizoo
-	registered = false
-[submodule "preproc.iquizoo"]
-	path = preproc.iquizoo
-	url = https://github.com/iquizoo/preproc.iquizoo
-	registered = false
 [submodule "zutils"]
 	path = zutils
 	url = https://github.com/psychelzh/zutils
