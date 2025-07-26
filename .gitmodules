@@ -5,9 +5,6 @@
 [submodule "cpmr"]
 	path = cpmr
 	url = https://github.com/psychelzh/cpmr
-[submodule "data.camp"]
-	path = data.camp
-	url = https://github.com/CAMP-BNU/data.camp
 [submodule "zutils"]
 	path = zutils
 	url = https://github.com/psychelzh/zutils
